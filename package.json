@@ -1,0 +1,19 @@
+{
+  "name": "@lotus-design/styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotus-fe/lotus-design-styles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lotus-fe/lotus-design-styles/issues"
+  },
+  "homepage": "https://github.com/lotus-fe/lotus-design-styles#readme"
+}
